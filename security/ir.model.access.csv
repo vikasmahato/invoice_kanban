@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_invoice_kanban_invoice_kanban,invoice_kanban.invoice_kanban,model_invoice_kanban_invoice_kanban,base.group_user,1,1,1,1
+access_invoice_kanban_access_account_move_stage,invoice_kanban.access_account_move_stage,model_invoice_kanban_account_move_stage,base.group_user,1,1,1,1
+invoice_kanaban.access_account_move_stage,access_account_move_stage,invoice_kanaban.model_account_move_stage,base.group_user,1,1,1,1
